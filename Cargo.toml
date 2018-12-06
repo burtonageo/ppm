@@ -1,5 +1,7 @@
 [package]
 name = "ppm"
+description = "Ppm image encoder/decoder"
+license = "MIT"
 version = "0.1.0"
 authors = ["George Burton <burtonageo@gmail.com>"]
 edition = "2018"
